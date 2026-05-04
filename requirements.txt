@@ -1,0 +1,15 @@
+# Rock Paper Scissors - Smart AI Edition
+# Requirements File
+
+# Python version
+# Python >= 3.6 recommended
+
+# -----------------------------------------------
+# Standard Library Only — No pip install needed
+# -----------------------------------------------
+
+# tkinter  → included with Python (standard library)
+# random   → included with Python (standard library)
+
+# No third-party packages required.
+# Simply run: python rps_game.py
