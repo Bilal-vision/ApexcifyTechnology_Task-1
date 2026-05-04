@@ -66,4 +66,5 @@ requirements.txt  # Dependency list
 
 ## Author
 M.Bilal Qadir 
+
 Built as a fun Python mini-project demonstrating adaptive AI with a tkinter GUI.
